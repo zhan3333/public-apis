@@ -110,33 +110,33 @@
 
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
-| [AdoptAPet](https://www.adoptapet.com/public/apis/pet_list.html) | Resource to help get pets adopted | `apiKey` | Yes | Yes |
-| [Axolotl](https://theaxolotlapi.netlify.app/) | Collection of axolotl pictures and facts | No | Yes | No |
-| [Cat Facts](https://alexwohlbruck.github.io/cat-facts/) | Daily cat facts | No | Yes | No |
-| [Cataas](https://cataas.com/) | Cat as a service (cats pictures and gifs) | No | Yes | No |
-| [catAPI](https://thatcopy.pw/catapi) | Random pictures of cats | No | Yes | Yes |
-| [Cats](https://docs.thecatapi.com/) | Pictures of cats from Tumblr | `apiKey` | Yes | No |
-| [Dog Facts](https://dukengn.github.io/Dog-facts-API/) | Random dog facts | No | Yes | Yes |
-| [Dog Facts](https://kinduff.github.io/dog-api/) | Random facts of Dogs | No | Yes | Yes |
-| [Dogs](https://dog.ceo/dog-api/) | Based on the Stanford Dogs Dataset | No | Yes | Yes |
-| [eBird](https://documenter.getpostman.com/view/664302/S1ENwy59) | Retrieve recent or notable birding observations within a region | `apiKey` | Yes | No |
-| [FishWatch](https://www.fishwatch.gov/developers) | Information and pictures about individual fish species | No | Yes | Yes |
-| [HTTPCat](https://http.cat/) | Cat for every HTTP Status | No | Yes | Yes |
-| [IUCN](http://apiv3.iucnredlist.org/api/v3/docs) | IUCN Red List of Threatened Species | `apiKey` | No | No |
-| [MeowFacts](https://github.com/wh-iterabb-it/meowfacts) | Get random cat facts | No | Yes | No |
-| [Movebank](https://github.com/movebank/movebank-api-doc) | Movement and Migration data of animals | No | Yes | Yes |
-| [Petfinder](https://www.petfinder.com/developers/) | Petfinder is dedicated to helping pets find homes, another resource to get pets adopted | `apiKey` | Yes | Yes |
-| [PlaceBear](https://placebear.com/) | Placeholder bear pictures | No | Yes | Yes |
-| [PlaceDog](https://place.dog) | Placeholder Dog pictures | No | Yes | Yes |
-| [PlaceKitten](https://placekitten.com/) | Placeholder Kitten pictures | No | Yes | Yes |
-| [RandomCat](https://aws.random.cat) | Random pictures of cats | No | Yes | Yes |
-| [RandomDog](https://random.dog/woof.json) | Random pictures of dogs | No | Yes | Yes |
-| [RandomDuck](https://random-d.uk/api) | Random pictures of ducks | No | Yes | No |
-| [RandomFox](https://randomfox.ca/floof/) | Random pictures of foxes | No | Yes | No |
+| [AdoptAPet](https://www.adoptapet.com/public/apis/pet_list.html) | 帮助收养宠物 | `apiKey` | Yes | Yes |
+| [Axolotl](https://theaxolotlapi.netlify.app/) | 收集蝾螈的照片 | No | Yes | No |
+| [Cat Facts](https://alexwohlbruck.github.io/cat-facts/) | 每天的猫图片 | No | Yes | No |
+| [Cataas](https://cataas.com/) | 猫即服务 (猫的图片与 GIF) | No | Yes | No |
+| [catAPI](https://thatcopy.pw/catapi) | 随机猫的图片 | No | Yes | Yes |
+| [Cats](https://docs.thecatapi.com/) | 来自 Tumblr 上的猫的图片 | `apiKey` | Yes | No |
+| [Dog Facts](https://dukengn.github.io/Dog-facts-API/) | 狗的图片 | No | Yes | Yes |
+| [Dog Facts](https://kinduff.github.io/dog-api/) | 随机狗的图片 | No | Yes | Yes |
+| [Dogs](https://dog.ceo/dog-api/) | 开源狗的图片 | No | Yes | Yes |
+| [eBird](https://documenter.getpostman.com/view/664302/S1ENwy59) | 按照区域查找采集到的鸟类信息 | `apiKey` | Yes | No |
+| [FishWatch](https://www.fishwatch.gov/developers) | 鱼的信息与照片 | No | Yes | Yes |
+| [HTTPCat](https://http.cat/) | 不同 HTTP 状态对应的猫图片 | No | Yes | Yes |
+| [IUCN](http://apiv3.iucnredlist.org/api/v3/docs) | 世界自然保护联盟濒危物种红色名录 | `apiKey` | No | No |
+| [MeowFacts](https://github.com/wh-iterabb-it/meowfacts) | 随机获取猫照片 | No | Yes | No |
+| [Movebank](https://github.com/movebank/movebank-api-doc) | 动物的运动与迁徙数据 | No | Yes | Yes |
+| [Petfinder](https://www.petfinder.com/developers/) | Petfinder 致力与帮助宠物找到家（宠物收养） | `apiKey` | Yes | Yes |
+| [PlaceBear](https://placebear.com/) | 根据参数响应指定尺寸的熊图片 | No | Yes | Yes |
+| [PlaceDog](https://place.dog) | 根据参数响应指定尺寸的狗图片 | No | Yes | Yes |
+| [PlaceKitten](https://placekitten.com/) | 根据参数响应指定尺寸的小猫照片 | No | Yes | Yes |
+| [RandomCat](https://aws.random.cat) | 随机获取猫图片 | No | Yes | Yes |
+| [RandomDog](https://random.dog/woof.json) | 随机获取狗图片 | No | Yes | Yes |
+| [RandomDuck](https://random-d.uk/api) | 随机获取鸭子图片 | No | Yes | No |
+| [RandomFox](https://randomfox.ca/floof/) | 随机获取狐狸图片 | No | Yes | No |
 | [RescueGroups](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) | Adoption | No | Yes | Unknown |
-| [Shibe.Online](http://shibe.online/) | Random pictures of Shiba Inu, cats or birds | No | Yes | Yes |
-| [The Dog](https://thedogapi.com/) | A public service all about Dogs, free to use when making your fancy new App, Website or Service | `apiKey` | Yes | No |
-| [Zoo Animals](https://zoo-animal-api.herokuapp.com/) | Facts and pictures of zoo animals | No | Yes | Yes |
+| [Shibe.Online](http://shibe.online/) |Shiba Inu, 随机获取猫或者鸟的图片 | No | Yes | Yes |
+| [The Dog](https://thedogapi.com/) | 狗即服务，关于狗的公共 api | `apiKey` | Yes | No |
+| [Zoo Animals](https://zoo-animal-api.herokuapp.com/) | 动物园的动物们的图片 | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 
