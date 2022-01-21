@@ -53,8 +53,8 @@
 <div align="center">
     <sub>Languages</sub>
     <br />
-    <a href="./README.md">EN</a> •
-    <a href="./README_cn.md">ZH_CN</a>
+    <a href="./README.md">Engilsh</a> •
+    <a href="./README_cn.md">中文</a>
 </div>
 
 ---
